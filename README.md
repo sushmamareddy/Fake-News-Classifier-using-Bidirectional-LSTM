@@ -1,6 +1,6 @@
 # Fake-News-Classifier-using-Bidirectional-LSTM
 
-  Dataset Description
+  Dataset Description - https://www.kaggle.com/c/fake-news/data#
     
     train.csv: A full training dataset with the following attributes:
     
